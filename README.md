@@ -50,8 +50,15 @@ Response:
 
 This architecture ensures a clean separation of concerns, making the system more maintainable, scalable, and testable. Each layer has a specific responsibility, and by following this pattern, the banking system is both robust and efficient in handling various banking operations.
 
+Technologies Used
+Backend: Spring Boot, JPA, MySQL
+Frontend: Angular, TypeScript, HTML, CSS
+Database: MySQL
+Tools: Maven, npm, Angular CLI
 
-
+Contact
+📧 Email: dhageravi4@gmail.com
+📞 Phone: 7875671417
 
 
 
