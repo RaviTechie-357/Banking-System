@@ -1,6 +1,6 @@
 # Banking-System Back-End
 
-Banking System Project
+Banking System Project : 
 This project is a comprehensive banking system developed using Spring Boot for the backend. The system is designed to manage various banking operations, such as account management, transactions, and user authentication. Below is a brief explanation of the key components of the backend architecture.
 
 1. Entity Layer:
